@@ -1,0 +1,15 @@
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.exe
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.deps.json
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.runtimeconfig.json
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.dll
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.pdb
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.AssemblyReference.cache
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfoInputs.cache
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfo.cs
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.dll
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\refint\ConsoleCalculator.dll
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
+D:\dev\dotnet\pluralsight\error-handling-c-sharp-10\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll
